@@ -1,10 +1,12 @@
 👋 Hi, there!
-💩 A shit code maker...
+💩 A shit code maker...(even no flies there) See:
+
 ![H-Chris233's GitHub stats](https://github-readme-stats.vercel.app/api?username=H-Chris233)
-And a Rust lover!
+
+And a Rust lover!(please ignore the first line)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=H-Chris233)
-Chinese...but no kungfu:
-![IceEnd's GitHub stats](https://github-immortality.vercel.app/api?username=H-Chris233)
+
 
 
 <!---
