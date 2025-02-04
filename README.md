@@ -1,9 +1,11 @@
-- 👋 Hi, I’m @H-Chris233
-- 👀 I’m interested in ...coding but everyone here is interested this isn't it?
-- 🌱 I’m currently learning HTMI,CSS,Javascript and java.
-- 📫 Reach me at 3475310230@qq.com !
-- 😄 Pronouns: ...May you are not interested in it.
-- ⚡ Fun fact: ...en-huh?
+👋 Hi, there!
+💩 A shit code maker...
+![H-Chris233's GitHub stats](https://github-readme-stats.vercel.app/api?username=H-Chris233)
+And a Rust lover!
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=H-Chris233)
+Chinese...but no kungfu:
+![IceEnd's GitHub stats](https://github-immortality.vercel.app/api?username=H-Chris233)
+
 
 <!---
 H-Chris233/H-Chris233 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
