@@ -2,7 +2,7 @@
 
 ![Chris233's-counter](https://count.getloli.com/@Chris233's counter?name=Chris233%27s+counter&theme=green&padding=5&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)
 
-### Call me **Chris233** please.
+Call me **Chris233** please.
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F77DF4&width=435&lines=I+love+Rust!;Always+learning+new+things...;Always+be+slow+to+respond...;As+a+fish%2C+i+wanna+fly+in+the+sky!)](https://git.io/typing-svg)
 
@@ -25,8 +25,10 @@ Please please ignore my poor grammar(⋟﹏⋞)
   
 [![State-of-the-art Shitcode](https://img.shields.io/static/v1?label=State-of-the-art&message=Shitcode&color=7B5804)](https://github.com/trekhleb/state-of-the-art-shitcode)
 
-
-About my code? You won't like that.
+Three important part for me in coding:  
+- The first is **memory safe**.  
+- The second is *runtime* speed.  
+- The third is **no warnings**,I hate that.
 
 💩:
 
