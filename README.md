@@ -25,6 +25,7 @@ But I think garbage looks better than my code( ･_･)ﾉ⌒●~*
 
 ## What I'm using or learning:
  ![​Rust​]​(​https://img.shields.io/badge/-Rust-a8b9cc?style=for-the-badge&logo=rust&logoColor=fff​)
+ ​![​C​]​(​https://img.shields.io/badge/-C-a8b9cc?style=for-the-badge&logo=C&logoColor=fff​)
  ![​Python​]​(​https://img.shields.io/badge/-Python-3776ab?style=for-the-badge&logo=python&logoColor=fff​)
  ![​Ubuntu​]​(​https://img.shields.io/badge/-Ubuntu-E34F26?style=for-the-badge&logo=ubuntu&logoColor=fff​)
  ![​Shell​]​(​https://img.shields.io/badge/-Shell-4eaa25?style=for-the-badge&logo=gnu%20bash&logoColor=fff​)
