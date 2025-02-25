@@ -2,17 +2,17 @@
 
 ![Chris233's counter](https://count.getloli.com/@Chris233's counter?name=Chris233%27s+counter&theme=green&padding=5&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)
 
-### Call me Chris233 please.
+### Call me **Chris233** please.
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F77DF4&width=435&lines=I+love+Rust!;Always+learning+new+things...;Always+be+slow+to+respond...;As+a+fish%2C+i+wanna+fly+in+the+sky!)](https://git.io/typing-svg)
 
-I've signned up Earth-Online for **16** years!ヾ(✿ﾟ▽ﾟ)ノ  
+I've signned up *Earth-Online* for **16** years!ヾ(✿ﾟ▽ﾟ)ノ  
 A player of **China** server!🇨🇳  
 
 Learning English so use it very much.  
 Please please ignore my poor grammar(⋟﹏⋞)  
 
-## What I'm using or learning:
+### What I'm using or learning:
 ![​Rust​]​(​https://img.shields.io/badge/-Rust-a8b9cc?style=for-the-badge&logo=rust&logoColor=fff​)
 ![​C​]​(​https://img.shields.io/badge/-C-a8b9cc?style=for-the-badge&logo=C&logoColor=fff​)
 ![​Python​]​(​https://img.shields.io/badge/-Python-3776ab?style=for-the-badge&logo=python&logoColor=fff​)
@@ -23,7 +23,9 @@ Please please ignore my poor grammar(⋟﹏⋞)
 ### ​coding style 
   
 [​![​State-of-the-art Shitcode​]​(​https://img.shields.io/static/v1?label=State-of-the-art&message=Shitcode&color=7B5804​)]​(​https://github.com/trekhleb/state-of-the-art-shitcode​)
-About my code? You won't like that.  
+
+About my code? You won't like that.
+
 💩:
 
 ![H-Chris233's GitHub stats](https://github-readme-stats.vercel.app/api?username=H-Chris233)
@@ -31,7 +33,7 @@ About my code? You won't like that.
 *Linus Torvalds* said:
 >YOUR CODE IS GARBAGE
 
-But I think garbage looks better than my code( ･_･)ﾉ⌒●~*
+But I think the garbage looks better than my code( ･_･)ﾉ⌒●~*
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/H-Chris233/H-Chris233/output/github-contribution-grid-snake-dark.svg">
@@ -44,3 +46,18 @@ But I think garbage looks better than my code( ･_･)ﾉ⌒●~*
 H-Chris233/H-Chris233 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+
+## 🎲 Programming Language Stack
+![Python](https://img.shields.io/badge/-Python-3776ab?style=for-the-badge&logo=python&logoColor=fff)
+![Java](https://img.shields.io/badge/-Java-F80000?style=for-the-badge&logo=gradle&logoColor=fff)
+![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=fff)
+![C](https://img.shields.io/badge/-C-a8b9cc?style=for-the-badge&logo=C&logoColor=fff)
+![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=fff)
+![Shell](https://img.shields.io/badge/-Shell-4eaa25?style=for-the-badge&logo=gnu%20bash&logoColor=fff)
+![Lua](https://img.shields.io/badge/-Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=fff)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff)
+![Golang](https://img.shields.io/badge/-Golang-00ADD8?style=for-the-badge&logo=go&logoColor=fff)
+![VimScript](https://img.shields.io/badge/-VimScript-019733?style=for-the-badge&logo=vim&logoColor=fff)
