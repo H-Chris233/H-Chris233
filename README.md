@@ -21,14 +21,11 @@ Please please ignore my poor grammar(⋟﹏⋞)
 ![Shell](https://img.shields.io/badge/-Shell-4eaa25?style=for-the-badge&logo=gnu%20bash&logoColor=fff)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff)
 
-### ​coding style 
-  
-[![State-of-the-art Shitcode](https://img.shields.io/static/v1?label=State-of-the-art&message=Shitcode&color=7B5804)](https://github.com/trekhleb/state-of-the-art-shitcode)
-
+### Coding style  
 Three important part for me in coding:  
-- The first is **memory safe**.  
-- The second is *runtime* speed.  
-- The third is **no warnings**,I hate that.
+1. **Memory safe**.  
+2. *Runtime* speed.  
+3. #[warn(unused_must_use)]
 
 💩:
 
