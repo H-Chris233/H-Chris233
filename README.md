@@ -2,7 +2,7 @@
 
 ![Chris233's counter](https://count.getloli.com/@Chris233's+counter?name=Chris233%27s+counter&theme=green&padding=5&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)
 
-##**[简体中文](./README.md "你好呀！")**
+## **[简体中文](./README_zh.md "你好呀！")**
 
 Call me **Chris233** please.
 
