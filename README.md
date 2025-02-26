@@ -1,12 +1,12 @@
 ## 👋 Hi, there!
 
-![Chris233's-counter](https://count.getloli.com/@Chris233's counter?name=Chris233%27s+counter&theme=green&padding=5&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)
+![Chris233's counter](https://count.getloli.com/@Chris233's+counter?name=Chris233%27s+counter&theme=green&padding=5&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)
 
 Call me **Chris233** please.
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F77DF4&width=435&lines=I+love+Rust!;Always+learning+new+things...;Always+be+slow+to+respond...;As+a+fish%2C+i+wanna+fly+in+the+sky!)](https://git.io/typing-svg)
 
-I've signned up *Earth-Online* for **16** years!ヾ(✿ﾟ▽ﾟ)ノ  
+I've signned up *Earth-Online* for **16** years!ヾ(✿ﾟ▽ﾟ)ノ🎉  
 A player of **China** server!🇨🇳  
 
 Learning English so use it very much.  
