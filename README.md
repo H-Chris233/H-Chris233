@@ -2,6 +2,8 @@
 
 ![Chris233's counter](https://count.getloli.com/@Chris233's+counter?name=Chris233%27s+counter&theme=green&padding=5&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)
 
+**[简体中文](/README.md "你好呀！")**
+
 Call me **Chris233** please.
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F77DF4&width=435&lines=I+love+Rust!;Always+learning+new+things...;Always+be+slow+to+respond...;As+a+fish%2C+i+wanna+fly+in+the+sky!)](https://git.io/typing-svg)
