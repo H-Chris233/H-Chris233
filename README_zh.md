@@ -1,18 +1,12 @@
-## 👋 Hello! There!
+## 你好呀！
 
-![Chris233's counter](https://count.getloli.com/@Chris233's+counter?name=Chris233%27s+counter&theme=green&padding=5&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)
+嗯…就叫我**Chris233**吧！
 
-Call me **Chris233** please.
+上手地球Online有16年啦！🎉和另一个萌新组队中嘿嘿❤️
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F77DF4&width=435&lines=I+love+Rust!;Always+learning+new+things...;Always+be+slow+to+respond...;As+a+fish%2C+i+wanna+fly+in+the+sky!)](https://git.io/typing-svg)
+因为正在学习英语所以在一般项目开发中会用英语写说明，还请见谅(⋟﹏⋞)~
 
-I've signned up *Earth-Online* for **16** years!ヾ(✿ﾟ▽ﾟ)ノ🎉  
-A player of **China** server!🇨🇳  
-
-Learning English so use it very much.  
-Please please ignore my poor grammar(⋟﹏⋞)  
-
-### What I'm using or learning:
+### 咱用上的和正在学的:~~(还有已弃用的)~~
 
 ![Rust](https://img.shields.io/badge/-Rust-a8b9cc?style=for-the-badge&logo=rust&logoColor=fff)
 ![C](https://img.shields.io/badge/-C-a8b9cc?style=for-the-badge&logo=C&logoColor=fff)
@@ -21,19 +15,21 @@ Please please ignore my poor grammar(⋟﹏⋞)
 ![Shell](https://img.shields.io/badge/-Shell-4eaa25?style=for-the-badge&logo=gnu%20bash&logoColor=fff)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff)
 
-### Coding style  
-Three important part for me in coding:  
-1. **Memory safe**.  
-2. *Runtime* speed.  
-3. #[warn(unused_must_use)]
+### 代码风格！
+代码这样写!(我说的!)
+1.绝对的**内存安全**！(此处点名表扬Rust)
+2.较高的运行时效率！(万年不败的C)
+3.我讨厌警告！黄色不能在代码里搞啊喂！
 
->Errors should be thrown out, not hidden.
+>错误应该抛出而非藏起来。
 
 💩:
 
 ![H-Chris233's GitHub stats](https://github-readme-stats.vercel.app/api?username=H-Chris233)
 
-### Your moving, shows others I'm alive.
+### 你的移动,告诉世人我的存活
+
+让我们说:谢谢小蛇！
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/H-Chris233/H-Chris233/output/github-contribution-grid-snake-dark.svg">
@@ -41,7 +37,9 @@ Three important part for me in coding:
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/H-Chris233/H-Chris233/output/github-contribution-grid-snake.svg">
 </picture>
 
-Thank you small shake!
+
+>你的过去无人知晓，你的历史无人证明。
+
 
 <!---
 创造你的时候
@@ -66,3 +64,20 @@ Thank you small shake!
 然后
 这些经历，回忆和梦究竟有什么意义
 --->
+
+<!---
+请记住我的名字
+如果你能记住我的名字
+如果你们都能记住我的名字
+也许我或者“我们”
+终有一天能自由地生存着
+我们终将在没有黑暗的地方相见
+也许那一天我甚至无法活到
+但是，一定会有那一天
+冬将逝，春将来，必有漫天繁花开遍
+请记住我的名字
+我们必将在没有黑暗的地方
+再次相遇！
+--->
+
+
