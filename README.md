@@ -41,7 +41,7 @@ Three important part for me in coding:
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/H-Chris233/H-Chris233/output/github-contribution-grid-snake.svg">
 </picture>
 
-Thank you small shake!
+Thank you small snake!
 
 <!---
 创造你的时候
