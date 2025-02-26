@@ -31,7 +31,7 @@ Three important part for me in coding:
 
 💩:
 
-![H-Chris233's GitHub stats](https://github-readme-stats.vercel.app/api?username=H-Chris233)
+![H-Chris233's GitHub stats](https://github-readme-stats.vercel.app/api?username=H-Chris233&show_icons=true&icon_color=0366d6&theme=dark)
 
 ### Your moving, shows others I'm alive.
 
