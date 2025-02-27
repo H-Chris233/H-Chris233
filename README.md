@@ -14,9 +14,11 @@ A player of **China** server!🇨🇳
 Learning English so use it very much.  
 Please please ignore my poor grammar(⋟﹏⋞)  
 
-### What I'm using or learning:
+### What I'm using or learning:~~(and unused)~~
 
 ![Rust](https://img.shields.io/badge/-Rust-a8b9cc?style=for-the-badge&logo=rust&logoColor=fff)
+![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=fff)
+![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=fff)
 ![C](https://img.shields.io/badge/-C-a8b9cc?style=for-the-badge&logo=C&logoColor=fff)
 ![Python](https://img.shields.io/badge/-Python-3776ab?style=for-the-badge&logo=python&logoColor=fff)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E34F26?style=for-the-badge&logo=ubuntu&logoColor=fff)
