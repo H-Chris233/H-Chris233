@@ -2,8 +2,6 @@
 
 嗯…就叫我**Chris233**吧！
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=H-Chris233&hide=java,html,ruby&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
 上手*地球Online*有16年啦！🎉和另一个萌新组队中嘿嘿❤️
 
 因为正在学习英语所以在一般项目开发中会用英语写说明，还请见谅(⋟﹏⋞)~
