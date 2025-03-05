@@ -37,7 +37,7 @@ Three important part for me in coding:
 
 ![H-Chris233's GitHub stats](https://github-readme-stats.vercel.app/api?username=H-Chris233&show_icons=true&icon_color=0366d6&theme=dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=H-Chris233&hide=java,html,ruby&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=H-Chris233&hide=java,ruby&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Your moving, shows others I'm alive.
 
