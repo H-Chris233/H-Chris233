@@ -27,9 +27,9 @@ Please please ignore my poor grammar(⋟﹏⋞)
 
 ### Coding style  
 Three important part for me in coding:  
-1. **Memory safe**.  
-2. *Runtime* speed.  
-3. #[warn(unused_must_use)]
+1. **Memory safe**.(Oh my Rust baby)
+2. *Runtime* speed.(C for hundreds of years)
+3. No warnings, or shut complier up.(No warnings in my main branch, No.)
 
 >Errors should be thrown out, not hidden.
 
@@ -46,8 +46,6 @@ Three important part for me in coding:
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/H-Chris233/H-Chris233/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/H-Chris233/H-Chris233/output/github-contribution-grid-snake.svg">
 </picture>
-
-Thank you small snake!
 
 <!---
 创造你的时候
