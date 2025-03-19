@@ -1,8 +1,10 @@
 ## 你好呀！
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F77DF4&width=435&lines=你好!;这里是Chris233!;爱用Rust的懒蛋一枚~;喜欢底层后端和汇编...;还有%2C是一只想要变成鹰的鱼!)](https://git.io/typing-svg)
+
 嗯…就叫我**Chris233**吧！
 
-上手*地球Online*有16年啦！🎉和另一个萌新组队中嘿嘿❤️
+*地球Online*16年老玩家...和某萌新组队中~❤️
 
 因为正在学习英语所以在一般项目开发中会用英语写说明，还请见谅(⋟﹏⋞)~
 
@@ -15,11 +17,11 @@
 ![Shell](https://img.shields.io/badge/-Shell-4eaa25?style=for-the-badge&logo=gnu%20bash&logoColor=fff)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff)
 
-### 代码风格！
-代码这样写!(我说的!)
+### 代码风格
+代码这样写!(我说的)
 1. 绝对的**内存安全**！(此处点名表扬Rust)
-2. 较高的运行时效率！(万年不败的C)
-3. 我讨厌警告！黄色不能在代码里搞啊喂！
+2. 较高的*运行时*效率！(万年不败的C)
+3. 消除警告，不然就让编译器闭嘴
 
 >错误应该抛出而非藏起来。
 
@@ -30,8 +32,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=H-Chris233&hide=java,ruby&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 你的移动,告诉世人我的存活
-
-让我们说:谢谢小蛇！
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/H-Chris233/H-Chris233/output/github-contribution-grid-snake-dark.svg">

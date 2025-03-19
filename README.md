@@ -6,7 +6,7 @@
 
 Call me **Chris233** please.
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F77DF4&width=435&lines=I+love+Rust!;Always+learning+new+things...;Always+be+slow+to+respond...;As+a+fish%2C+i+wanna+fly+in+the+sky!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F77DF4&width=435&lines=Hello!;Chris233+is+here!;I+love+Rust!;Always+learning+new+things...;As+a+fish%2C+i+wanna+fly+in+the+sky!)](https://git.io/typing-svg)
 
 I've signned up *Earth-Online* for **16** years!ヾ(✿ﾟ▽ﾟ)ノ🎉  
 A player of **China** server!🇨🇳  
