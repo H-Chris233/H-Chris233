@@ -29,7 +29,7 @@ Please please ignore my poor grammar(⋟﹏⋞)
 Three important part for me in coding:  
 1. **Memory safe**.(Oh my Rust baby)
 2. *Runtime* speed.(C for hundreds of years)
-3. No warnings, or shut complier up.(No warnings in my main branch, No.)
+3. No warnings, or let complier shut up.(Especially main branch)
 
 >Errors should be thrown out, not hidden.
 
