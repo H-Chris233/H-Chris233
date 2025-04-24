@@ -4,7 +4,7 @@
 
 ## **[简体中文](./README_zh.md "你好呀！")**
 
-Call me **Chris233** please.
+You can call me **Chris233**, **Chris** or *Whatever* you want.
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F77DF4&width=435&lines=Hello!;Chris233+is+here!;I+love+Rust!;Always+learning+new+things...;As+a+fish%2C+i+wanna+fly+in+the+sky!)](https://git.io/typing-svg)
 
