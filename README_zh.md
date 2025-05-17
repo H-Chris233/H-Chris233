@@ -4,11 +4,11 @@
 
 嗯…就叫我**Chris233**吧！(也可以直接叫我**Chris** --或者你喜欢的任何称呼.)
 
-**16**岁~~(大概)~~,猜猜我喜欢干什么😉
+**16**岁～～(大概)～～,猜猜我喜欢干什么😉
 
 因为正在学习英语所以在一般项目开发中会中英语混写注释及说明，还请见谅(⋟﹏⋞)~
 
-### 咱用上的和正在学的:~~(还有已弃用的)~~
+### 技术栈:~~(债)~~
 
 ![Rust](https://img.shields.io/badge/-Rust-a8b9cc?style=for-the-badge&logo=rust&logoColor=fff)
 ![C](https://img.shields.io/badge/-C-a8b9cc?style=for-the-badge&logo=C&logoColor=fff)
