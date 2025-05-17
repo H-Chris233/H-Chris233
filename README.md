@@ -8,11 +8,11 @@ You can call me **Chris233**, **Chris** or *Whatever you want*.
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F77DF4&width=435&lines=Hello!;Chris233+is+here!;I+love+Rust!;Always+learning+new+things...;As+a+fish%2C+i+wanna+fly+in+the+sky!)](https://git.io/typing-svg)
 
-**16** years old.(I'm young, huh?)
+**16** years old.(I'm old, already.)
 
 🇨🇳
 
-Learning English so use it very much for practicing.  
+Learning English so that I may use it very much for practicing.  
 Please please ignore my poor grammar(⋟﹏⋞)  
 
 ### What I'm using or learning:~~(and unused)~~
