@@ -1,14 +1,30 @@
-## 你好呀！
+## 🌟 你好呀！
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F77DF4&width=435&lines=你好!;这里是Chris233!;爱用Rust的懒蛋一枚~;喜欢底层后端和汇编...;还有%2C是一只想要变成鹰的鱼!)](https://git.io/typing-svg)
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F77DF4&width=435&lines=你好!;这里是Chris233!;爱用Rust的懒蛋一枚~;喜欢底层后端和汇编...;还有%2C是一只想要变成鹰的鱼!&center=true&size=22" alt="Typing SVG" />
+</div>
 
-嗯…就叫我**Chris233**吧！(也可以直接叫我**Chris** --或者你喜欢的任何称呼.)
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=H-Chris233&color=blueviolet&style=flat-square&label=访客数" alt="Profile visitor count" />
+</div>
 
-**16**岁,猜猜我喜欢干什么😉
+嗯…就叫我**Chris233**吧！(也可以直接叫我**Chris** --或者你喜欢的任何称呼.) 🌈
 
-因为正在学习英语所以在一般项目开发中会中英语混写注释及说明，还请见谅(⋟﹏⋞)~
+<div align="center">
 
-### 技术栈:~~(债)~~
+**16**岁。 
+
+</div>
+
+<div align="center">
+
+因为正在学习英语所以在一般项目开发中会中英语混写注释及说明，还请见谅(⋟﹏⋞) 
+
+</div>
+
+### 🛠️ 技术栈: ~~(债)~~
+
+<div align="center">
 
 ![Rust](https://img.shields.io/badge/-Rust-a8b9cc?style=for-the-badge&logo=rust&logoColor=fff)
 ![C](https://img.shields.io/badge/-C-a8b9cc?style=for-the-badge&logo=C&logoColor=fff)
@@ -17,27 +33,42 @@
 ![Shell](https://img.shields.io/badge/-Shell-4eaa25?style=for-the-badge&logo=gnu%20bash&logoColor=fff)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff)
 
-### 代码风格
+</div>
+
+### 🎯 代码风格
 代码这样写!(我说的)~~(理想情况)~~
 1. **内存安全**(点名表扬Rust)
 2. **较高**的*运行时*效率(设备低能导致的精打细算...)
 3. 消除警告，看不惯(当然是主分支)~~(烦)~~
 
->错误应该抛出而非藏起来。
+> 错误应该抛出而非藏起来。
 
-💩:
+### 📊 GitHub 统计数据 & 活动
 
-![H-Chris233's GitHub stats](https://github-readme-stats.vercel.app/api?username=H-Chris233&show_icons=true&icon_color=0366d6&theme=dark)
+<div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=H-Chris233&hide=java,ruby&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+![H-Chris233's GitHub stats](https://github-readme-stats.vercel.app/api?username=H-Chris233&show_icons=true&icon_color=F77DF4&title_color=F77DF4&text_color=888888&bg_color=ffffff00&theme=swift&hide_border=true)
 
-### 你的移动,告诉世人我的存活
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=H-Chris233&hide=java,ruby&layout=compact&theme=swift&hide_border=true&card_width=300)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
+
+### 🐍 我的贡献蛇蛇
+
+<div align="center">
+
+你的移动，告诉世人我的存活！🎉
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/H-Chris233/H-Chris233/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/H-Chris233/H-Chris233/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/H-Chris233/H-Chris233/output/github-contribution-grid-snake.svg">
 </picture>
+
+</div>
+
+### 🌈 趣味事实
+> 🐟🧠→🦅!
 
 
 >你的过去无人知晓，你的历史无人证明。
