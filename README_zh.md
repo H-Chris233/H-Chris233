@@ -1,9 +1,5 @@
 ## 🌟 你好呀！
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F77DF4&width=435&lines=你好!;这里是Chris233!;爱用Rust的懒蛋一枚~;喜欢底层后端和汇编...;还有%2C是一只想要变成鹰的鱼!&center=true&size=22" alt="Typing SVG" />
-</div>
-
 ![Chris233's counter](https://count.getloli.com/@Chris233's+counter?name=Chris233%27s+counter&theme=green&padding=5&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)
 
 嗯…就叫我**Chris233**吧！(也可以直接叫我**Chris** --或者你喜欢的任何称呼.) 🌈
