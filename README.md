@@ -1,9 +1,5 @@
 ## 🌟 Hi! There!
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F77DF4&width=435&lines=Hello!;Chris233+is+here!;I+love+Rust!;Always+learning+new+things...;As+a+fish%2C+i+wanna+fly+in+the+sky!&center=true&size=22" alt="Typing SVG" />
-</div>
-
 ![Chris233's counter](https://count.getloli.com/@Chris233's+counter?name=Chris233%27s+counter&theme=green&padding=5&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)
 
 ## **[简体中文](./README_zh.md "你好呀！")**
@@ -79,7 +75,7 @@ Your moves show others I'm alive! 🎉
 </div>
 
 ### 🌈 Fun Fact
-> I'm a fish who wants to fly in the sky! 🐟✈️
+> 🐟🧠→🦅!
 
 <!---
 创造你的时候
