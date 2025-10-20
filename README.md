@@ -39,6 +39,10 @@ Please please ignore my poor grammar (⋟﹏⋞)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E34F26?style=for-the-badge&logo=ubuntu&logoColor=fff)
 ![Shell](https://img.shields.io/badge/-Shell-4eaa25?style=for-the-badge&logo=gnu%20bash&logoColor=fff)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff)
+![Arch Linux](https://img.shields.io/badge/-Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=fff)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=fff)
+![Tauri](https://img.shields.io/badge/-Tauri-2D2D2D?style=for-the-badge&logo=tauri&logoColor=fff)
+![7-Zip](https://img.shields.io/badge/-7--Zip-00AAAA?style=for-the-badge&logo=7zip&logoColor=fff)
 
 </div>
 
@@ -54,9 +58,9 @@ Three important parts for me in coding:
 
 <div align="center">
 
-![H-Chris233's GitHub stats](https://github-readme-stats.vercel.app/api?username=H-Chris233&show_icons=true&icon_color=0366d6&theme=dark)
+![H-Chris233's GitHub stats](https://github-readme-stats.vercel.app/api?username=H-Chris233&show_icons=true&icon_color=F77DF4&title_color=F77DF4&text_color=888888&bg_color=ffffff00&theme=swift&hide_border=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=H-Chris233&hide=java,ruby&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=H-Chris233&hide=java,ruby&layout=compact&theme=swift&hide_border=true&card_width=300)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
