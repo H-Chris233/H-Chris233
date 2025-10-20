@@ -4,9 +4,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F77DF4&width=435&lines=你好!;这里是Chris233!;爱用Rust的懒蛋一枚~;喜欢底层后端和汇编...;还有%2C是一只想要变成鹰的鱼!&center=true&size=22" alt="Typing SVG" />
 </div>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=H-Chris233&color=blueviolet&style=flat-square&label=访客数" alt="Profile visitor count" />
-</div>
+![Chris233's counter](https://count.getloli.com/@Chris233's+counter?name=Chris233%27s+counter&theme=green&padding=5&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)
 
 嗯…就叫我**Chris233**吧！(也可以直接叫我**Chris** --或者你喜欢的任何称呼.) 🌈
 
@@ -47,9 +45,9 @@
 
 <div align="center">
 
-![H-Chris233's GitHub stats](https://github-readme-stats.vercel.app/api?username=H-Chris233&show_icons=true&icon_color=F77DF4&title_color=F77DF4&text_color=888888&bg_color=ffffff00&theme=swift&hide_border=true)
+![H-Chris233's GitHub stats](https://github-readme-stats.vercel.app/api?username=H-Chris233&show_icons=true&icon_color=0366d6&theme=dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=H-Chris233&hide=java,ruby&layout=compact&theme=swift&hide_border=true&card_width=300)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=H-Chris233&hide=java,ruby&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
