@@ -3,9 +3,9 @@ name: Update README cards
 on:
   push:
     branches:
-      - main # 如果你是 master，请改成 master
+      - main # 如果你的默认分支是 master，请改成 master
     paths-ignore:
-      - "profile/*.svg" # 避免本工作流 push 生成的 svg 又触发自己
+      - "profile/*.svg" # 避免提交生成的 svg 后再次触发 workflow
   schedule:
     - cron: "0 0 * * *" # 每天 0 点运行
   workflow_dispatch:
@@ -30,7 +30,17 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: stats
-          options: username=${{ github.repository_owner }}&show_icons=true
+          # 对应：
+          # https://github-readme-stats.vercel.app/api?username=H-Chris233&show_icons=true&icon_color=F77DF4&title_color=F77DF4&text_color=888888&bg_color=ffffff00&theme=swift&hide_border=true
+          options: >-
+            username=H-Chris233
+            &show_icons=true
+            &icon_color=F77DF4
+            &title_color=F77DF4
+            &text_color=888888
+            &bg_color=ffffff00
+            &theme=swift
+            &hide_border=true
           path: profile/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -38,21 +48,20 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: top-langs
-          options: username=${{ github.repository_owner }}&layout=compact&langs_count=6
+          # 对应：
+          # https://github-readme-stats.vercel.app/api/top-langs/?username=H-Chris233&hide=java,ruby&layout=compact&theme=swift&hide_border=true&card_width=300
+          options: >-
+            username=H-Chris233
+            &hide=java,ruby
+            &layout=compact
+            &theme=swift
+            &hide_border=true
+            &card_width=300
           path: profile/top-langs.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Generate pin card
-        uses: readme-tools/github-readme-stats-action@v1
-        with:
-          card: pin
-          options: username=readme-tools&repo=github-readme-stats
-          path: profile/pin-readme-tools-github-readme-stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit and push cards (only if changed)
         run: |
-          # 只要 profile 目录下有变更才提交
           if [[ -z "$(git status --porcelain profile)" ]]; then
             echo "No changes in profile/, skip commit."
             exit 0
