@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Chris233's GitHub Stats, Rank: B+</title>
-        <desc id="descId">Total Stars Earned: 23, Total Commits  (last year) : 1125, Total PRs: 64, Total Issues: 14, Contributed to (last year): 10</desc>
+        <desc id="descId">Total Stars Earned: 23, Total Commits  (last year) : 1087, Total PRs: 64, Total Issues: 14, Contributed to (last year): 9</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 111.63206234214353;
+        stroke-dashoffset: 111.83774695665278;
       }
     }
   
@@ -222,7 +222,7 @@
         x="219.01"
         y="12.5"
         data-testid="contribs"
-      >10</text>
+      >9</text>
     </g>
   </g>
     </svg>
