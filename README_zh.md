@@ -6,12 +6,6 @@
 
 <div align="center">
 
-**17**岁了ww 
-
-</div>
-
-<div align="center">
-
 因为正在学习英语所以在一般项目开发中会中英语混写注释及说明，还请见谅(⋟﹏⋞) 
 
 </div>
