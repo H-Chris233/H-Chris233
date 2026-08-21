@@ -7,12 +7,6 @@
 You can call me **Chris233**, **Chris** or *Whatever you want*! 🌈
 
 <div align="center">
-
-**17** years old!!
-
-</div>
-
-<div align="center">
   <img src="https://flagcdn.com/w40/cn.png" width="40" alt="China flag" />
 </div>
 
